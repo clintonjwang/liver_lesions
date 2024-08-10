@@ -1,0 +1,61 @@
+,true_cls,pred_cls,feature_1,strength_1,feature_2,strength_2,feature_3,strength_3,feature_4,strength_4
+E100894274_0,hcc,hcc,venous washout,85.92377965,arterial enhancement,31.40773307,heterogeneous,21.80431163,continuous enhancing rim,9.357098466
+13092966_0,hcc,hcc,venous washout,52.61324814,homogeneous,50.60842429,delayed isointensity,28.32199124,arterial enhancement,19.47629259
+E101225606_0,hcc,hcc,venous washout,89.20901541,arterial enhancement,34.17492588,heterogeneous,31.22788359,continuous enhancing rim,24.42820974
+E101069048_1,hcc,hcc,continuous enhancing rim,139.0964361,venous washout,132.8561634,arterial enhancement,53.87630011,heterogeneous,3.186992845
+E106096969_0,hcc,hcc,venous washout,94.76946547,homogeneous,51.22510999,heterogeneous,42.79850237,arterial enhancement,34.27639468
+E100407633_0,hcc,fnh,homogeneous,61.48803272,delayed isointensity,40.57970842,arterial enhancement,31.12118423,central scar,29.85055456
+12783467_0,hcc,hcc,venous washout,87.17246908,homogeneous,46.26402675,arterial enhancement,36.01016789,heterogeneous,19.02504279
+E100262351_0,hcc,hcc,venous washout,74.74032987,arterial enhancement,43.59779565,heterogeneous,42.01730722,homogeneous,39.06289188
+E105344747_0,hcc,hcc,venous washout,60.42040292,homogeneous,34.35383668,arterial enhancement,33.29505123,delayed isointensity,32.89153357
+13031955_0,hcc,fnh,venous washout,56.50838009,homogeneous,54.3534192,delayed isointensity,41.66560753,arterial enhancement,34.11288976
+E105310461_0,cholangio,cholangio,lobulated margins,41.62113364,heterogeneous,37.77142268,progressive uniform enhancement,36.75451914,continuous enhancing rim,2.487633414
+E102929168_0,cholangio,cholangio,lobulated margins,63.1568101,heterogeneous,46.53436792,progressive uniform enhancement,46.10016295,nodular or discontinuous enhancement,2.443242111
+12569915_0,cholangio,cholangio,heterogeneous,35.92797213,infiltrative,34.3951097,continuous enhancing rim,1.824729816,delayed isointensity,-6.71519979
+E102613189_0,cholangio,cholangio,lobulated margins,64.71796071,heterogeneous,55.16673909,progressive uniform enhancement,31.69892951,delayed isointensity,-52.99176115
+E102634440_0,cholangio,cholangio,heterogeneous,59.18085752,lobulated margins,56.35376487,progressive uniform enhancement,37.63274383,nodular or discontinuous enhancement,25.92433651
+E102093118_0,cholangio,cholangio,infiltrative,56.5333555,homogeneous,47.25478021,delayed isointensity,39.46548384,heterogeneous,38.01640262
+E102095465_0,cholangio,cholangio,thin well-defined walls,41.03440982,lobulated margins,31.10010166,progressive centripetal filling,30.7827791,regular spherical hypointense mass,29.62109186
+E105427046_0,cholangio,colorectal,progressive uniform enhancement,37.03392889,continuous enhancing rim,31.66618475,lobulated margins,24.95560251,regular spherical hypointense mass,8.723585182
+12582632_0,cholangio,cholangio,infiltrative,82.81562629,heterogeneous,45.71010524,delayed isointensity,10.12081337,progressive uniform enhancement,1.57163667
+E103020139_1,cholangio,fnh,progressive uniform enhancement,93.25731697,heterogeneous,92.73450257,lobulated margins,69.45223443,thin well-defined walls,53.46439398
+E100962970_0,colorectal,hcc,lobulated margins,30.93233949,homogeneous,17.41909494,heterogeneous,12.40754841,progressive uniform enhancement,10.1997595
+E104697262_0,colorectal,colorectal,continuous enhancing rim,42.17599141,regular spherical hypointense mass,11.26968719,progressive uniform enhancement,-1.17988608,lobulated margins,-45.58748341
+E100183257_1,colorectal,colorectal,thin well-defined walls,56.69029139,progressive centripetal filling,47.40280752,lobulated margins,25.87158149,progressive uniform enhancement,24.84183655
+E101083458_1,colorectal,colorectal,continuous enhancing rim,38.37727273,progressive uniform enhancement,15.94686856,thin well-defined walls,6.565868626,regular spherical hypointense mass,4.520868536
+12888679_2,colorectal,colorectal,continuous enhancing rim,17.32119408,regular spherical hypointense mass,12.87771409,venous washout,5.648179706,delayed isointensity,3.884691924
+E105311123_0,colorectal,colorectal,continuous enhancing rim,65.48312753,regular spherical hypointense mass,-14.13309505,venous washout,-26.2596602,heterogeneous,-35.72116327
+12975280_0,colorectal,colorectal,progressive uniform enhancement,36.12211997,lobulated margins,31.07931244,continuous enhancing rim,10.78675644,heterogeneous,5.523148696
+12961059_0,colorectal,colorectal,continuous enhancing rim,28.82367205,regular spherical hypointense mass,-0.839611561,progressive uniform enhancement,-16.26455369,infiltrative,-97.81449107
+E103312835_1,colorectal,fnh,lobulated margins,84.29613071,progressive uniform enhancement,71.6435507,thin well-defined walls,60.61199384,heterogeneous,17.48412304
+12324408_0,colorectal,colorectal,thin well-defined walls,50.13511322,lobulated margins,40.42755759,continuous enhancing rim,39.47595495,progressive centripetal filling,31.69544002
+12451831_0,cyst,cyst,hypointense without enhancement,89.69479678,progressive centripetal filling,71.97299786,thin well-defined walls,60.68482259,regular spherical hypointense mass,50.58279793
+12207268_0,cyst,cyst,hypointense without enhancement,89.82341381,progressive centripetal filling,67.68221514,thin well-defined walls,66.03164415,regular spherical hypointense mass,49.12327449
+E100610622_0,cyst,cyst,hypointense without enhancement,93.98980998,progressive centripetal filling,61.3712826,thin well-defined walls,58.93527205,regular spherical hypointense mass,45.27707229
+13112385_1,cyst,cyst,hypointense without enhancement,93.94634755,regular spherical hypointense mass,60.1454883,progressive centripetal filling,53.26995587,thin well-defined walls,51.99404317
+12530153_0,cyst,cyst,hypointense without enhancement,85.29317858,progressive centripetal filling,75.80381718,thin well-defined walls,69.74307636,regular spherical hypointense mass,45.19743174
+12569826_0,cyst,cyst,thin well-defined walls,120.0043204,hypointense without enhancement,92.3916741,progressive centripetal filling,87.86944371,nodular or discontinuous enhancement,30.94431905
+E100314676_0,cyst,cyst,hypointense without enhancement,104.6419974,regular spherical hypointense mass,62.07234101,progressive centripetal filling,43.87817849,thin well-defined walls,37.25270378
+13028374_0,cyst,cyst,hypointense without enhancement,97.63004638,regular spherical hypointense mass,58.12695677,thin well-defined walls,39.06797051,progressive centripetal filling,37.23018082
+E100718398_0,cyst,cyst,hypointense without enhancement,77.76200958,thin well-defined walls,57.00747352,progressive centripetal filling,56.4911563,regular spherical hypointense mass,35.688901
+12302576_0,cyst,fnh,lobulated margins,84.20517144,progressive uniform enhancement,74.78280584,thin well-defined walls,54.16734917,heterogeneous,18.08363147
+12842070_0,hemangioma,hemangioma,hyperintense mass on delayed phase,103.7129799,progressive centripetal filling,89.05030386,nodular or discontinuous enhancement,83.72798884,thin well-defined walls,41.02744878
+E100121654_0,hemangioma,hemangioma,hyperintense mass on delayed phase,178.6967547,nodular or discontinuous enhancement,127.5406137,progressive centripetal filling,84.7998806,thin well-defined walls,-1.999036977
+12874178_3,hemangioma,hemangioma,progressive centripetal filling,68.26247096,thin well-defined walls,59.21635601,hyperintense mass on delayed phase,17.70485286,regular spherical hypointense mass,16.53055629
+12239783_0,hemangioma,hemangioma,progressive centripetal filling,81.92611424,nodular or discontinuous enhancement,61.1835952,hyperintense mass on delayed phase,57.51124723,thin well-defined walls,57.26797019
+E100168661_0,hemangioma,hemangioma,progressive centripetal filling,86.11544432,thin well-defined walls,64.37182292,hyperintense mass on delayed phase,61.86311196,nodular or discontinuous enhancement,56.07361233
+12788616_0,hemangioma,hemangioma,nodular or discontinuous enhancement,116.0071745,hyperintense mass on delayed phase,115.1202084,arterial enhancement,5.348293253,continuous enhancing rim,-15.76701163
+11907521_0,hemangioma,hemangioma,progressive centripetal filling,113.8567196,thin well-defined walls,88.9706374,nodular or discontinuous enhancement,80.79023234,hyperintense mass on delayed phase,68.42268533
+12799652_0,hemangioma,hemangioma,nodular or discontinuous enhancement,80.37916474,hyperintense mass on delayed phase,75.75626717,progressive centripetal filling,74.03240251,thin well-defined walls,56.06242595
+12823036_0,hemangioma,hemangioma,nodular or discontinuous enhancement,78.55552212,hyperintense mass on delayed phase,70.93368794,progressive centripetal filling,54.79476161,thin well-defined walls,25.47438923
+E103192914_0,fnh,fnh,venous washout,72.90992413,homogeneous,63.53396317,delayed isointensity,54.48806873,arterial enhancement,43.72240121
+E100383453_0,fnh,fnh,delayed isointensity,52.19632179,central scar,46.3183409,venous washout,45.67032265,homogeneous,44.91939475
+E106182827_0,fnh,fnh,homogeneous,72.71958347,delayed isointensity,49.73135674,arterial enhancement,36.94313624,heterogeneous,15.94286287
+E105918926_0,fnh,fnh,homogeneous,79.38438318,venous washout,51.15341598,delayed isointensity,41.26495201,heterogeneous,32.05956553
+E100192709_1,fnh,fnh,delayed isointensity,60.19944185,heterogeneous,36.70833468,infiltrative,34.69757099,central scar,19.64894347
+E102782525_0,fnh,fnh,delayed isointensity,57.22767294,venous washout,56.22174801,homogeneous,49.37978792,arterial enhancement,42.74788428
+E101415263_0,fnh,hcc,venous washout,56.87869732,arterial enhancement,40.76402159,heterogeneous,40.57449389,homogeneous,34.02511922
+E105244287_0,fnh,fnh,homogeneous,65.70158841,delayed isointensity,50.30750319,arterial enhancement,36.35342211,heterogeneous,8.681639081
+13092836_2,fnh,fnh,nodular or discontinuous enhancement,59.4206802,delayed isointensity,35.27024115,infiltrative,30.87399079,hyperintense mass on delayed phase,30.65440022
+12552705_0,fnh,fnh,homogeneous,48.38814132,arterial enhancement,47.03757624,delayed isointensity,46.42534267,infiltrative,30.38462928
+12678910_1,hemangioma,fnh,lobulated margins,80.2577281,progressive uniform enhancement,72.28964967,thin well-defined walls,50.71866045,heterogeneous,0.660030558
